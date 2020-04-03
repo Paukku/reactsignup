@@ -1,0 +1,2 @@
+create-react-app
+zxcvbn isemail prop-types node-sass bootstrap
